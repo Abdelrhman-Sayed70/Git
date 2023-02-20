@@ -12,4 +12,15 @@
 - Unstage tracked (staged) file. Remove this file from staging area
 
 ### `git commit -m "message"`
-- move files from staging area to **Local repo**
+- Move files from staging area to **Local repo**
+
+### `git bracnh`
+- List all branches you have and the current branch wiht * sign  
+
+### `git remote`
+- Return RemoteName 
+
+### `git push [RemoteName][BranchName]`
+- `git push origin main`
+
+- `git push origin Gaber //Gaber is bracnh`  

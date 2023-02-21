@@ -49,6 +49,20 @@
 
 # Configurations
 
+## ListConfigurations
+### `git config -l`
+- return your configurations
+
+
+## Editor
+### `git config --global core.editor code`
+- Set vs code as your default editor
+
+### `git config --global --edit`
+- Set your configurations using vs code 
+
+
+## UserName & UserEmail
 ### `git config --global user.email`
 - Return user email
 
@@ -59,19 +73,15 @@
 ### `git config --global user.name "name"`
 - Get and set user name
 
-### `git config -l`
-- return your configurations
+## Alies
 
+
+## UnsetConfig
 ### `git config --global --unset configname`
 - unset specific configuration : user.name, user.email and so on
 
-### `git config --global core.editor code`
-- Set vs code as your default editor
 
-### `git config --global --edit`
-- Set your configurations using vs code 
  
 ![separator2](https://i.imgur.com/4gX5WFr.png)
-
 # Pull Request
 

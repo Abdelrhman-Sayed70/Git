@@ -29,9 +29,15 @@
 
 # From Remote To Local
 
-### `git pull [Remote Name]`
+### `git pull origin`
 - Get all edited files in remote repo to local
 - Do 2 commands : git fetch [retrieve  data from remote] , git merge [merge those data to your local branch]
+
+
+# Pull and push 
+
+### `git push -u origin [BranshName]`
+- Pull then push
 
 
 # Configurations

@@ -74,6 +74,11 @@
 - Get and set user name
 
 ## Alies
+### `git config --global alias.pl pull`
+- Set config
+
+### `git config --global alias.pl`
+- Get the value of alias
 
 
 ## UnsetConfig
@@ -84,4 +89,10 @@
  
 ![separator2](https://i.imgur.com/4gX5WFr.png)
 # Pull Request
+
+![separator2](https://i.imgur.com/4gX5WFr.png)
+
+# Branching
+
+![separator2](https://i.imgur.com/4gX5WFr.png)
 

@@ -8,7 +8,7 @@
 
 ### `git add [file name or folder name or *] `
 - Add the selected files to be in **Staging ares**
-- * add all untracked files into Staging area
+- \* add all untracked files into Staging area
 
 ### `git reset head [file path or folder name]`
 - Unstage tracked (staged) file. Remove this file from staging area
@@ -16,7 +16,7 @@
 ### `git commit -m "message"`
 - Move files from staging area to **Local repo**
 
-### `git bracnh`
+### `git branch`
 - List all branches you have and the current branch wiht * sign  
 
 ### `git remote`
@@ -30,4 +30,24 @@
 # From Remote To Local
 
 ### `git pull [Remote Name]`
-- it get all edited files in remote repo to local 
+- Get all edited files in remote repo to local
+- Do 2 commands : git fetch [retrieve  data from remote] , git merge [merge those data to your local branch]
+
+
+# Configurations
+
+### `git config --global user.email`
+- Return user email
+
+### `git config --global user.email "email"`
+- Set your email
+
+### `git config --global user.name`
+### `git config --global user.name "name"`
+- Get and set user name
+
+### `git config -l`
+- return your configurations
+
+### `git config --global --unset configname`
+- unset specific configuration : user.name, user.email and so on

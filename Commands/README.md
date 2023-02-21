@@ -51,3 +51,11 @@
 
 ### `git config --global --unset configname`
 - unset specific configuration : user.name, user.email and so on
+
+### `git config --global core.editor code`
+- Set vs code as your default editor
+
+### `git config --global --edit`
+- Set your configurations using vs code 
+ 
+

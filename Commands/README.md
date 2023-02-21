@@ -25,9 +25,9 @@
 - Return RemoteName 
 
 ### `git push [RemoteName][BranchName]`
-- `git push origin main`
+- `git push origin main  //main is default local branch`  
 
-- `git push origin Gaber //Gaber is bracnh`  
+- `git push origin Gaber //Gaber is a local branch`  
 
 ![separator2](https://i.imgur.com/4gX5WFr.png)
 

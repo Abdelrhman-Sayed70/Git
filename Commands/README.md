@@ -94,5 +94,25 @@
 
 # Branching
 
-![separator2](https://i.imgur.com/4gX5WFr.png)
+## Create branches and move between them
+### `git branch`
+- return all branches in repo 
+- \* sign to the current branch
 
+### `git branch branch_name`
+- Create branch with branch_name
+
+### `git checkout branch_name`
+- Travel between branches
+
+## Delete branch
+### `git branch -d branch_name`
+- Safe mood
+- Git checks if the branch has changes that not merged yet to the master branch if (true) it will be not deleted else delete
+
+### `git branch -D branch_name`
+- Force mood
+- Delete the branch without checking
+
+
+![separator2](https://i.imgur.com/4gX5WFr.png)

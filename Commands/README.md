@@ -105,6 +105,13 @@
 ### `git checkout branch_name`
 - Travel between branches
 
+### `git checkout -b branch_name`
+- Create the branch and travel to it
+
+### `git branch -m new_branch_name`
+- Rename the current branch
+
+
 ## Delete branch
 ### `git branch -d branch_name`
 - Safe mood

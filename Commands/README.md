@@ -1,6 +1,8 @@
 # Areas
 ![areas](https://user-images.githubusercontent.com/99830416/220210277-b4fc9d57-462a-463c-88d9-893c89c7b0f8.jpg)
 
+# From Local To Remote 
+
 ### `git status`
 -  Return information of your **Local Repo**
 
@@ -24,3 +26,8 @@
 - `git push origin main`
 
 - `git push origin Gaber //Gaber is bracnh`  
+
+# From Remote To Local
+
+### `git pull [Remote Name]`
+- it get all edited files in remote repo to local 

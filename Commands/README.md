@@ -1,6 +1,8 @@
 # Areas
 ![areas](https://user-images.githubusercontent.com/99830416/220210277-b4fc9d57-462a-463c-88d9-893c89c7b0f8.jpg)
 
+![separator2](https://i.imgur.com/4gX5WFr.png)
+
 # From Local To Remote 
 
 ### `git status`
@@ -27,17 +29,22 @@
 
 - `git push origin Gaber //Gaber is bracnh`  
 
+![separator2](https://i.imgur.com/4gX5WFr.png)
+
 # From Remote To Local
 
 ### `git pull origin`
 - Get all edited files in remote repo to local
 - Do 2 commands : git fetch [retrieve  data from remote] , git merge [merge those data to your local branch]
 
+![separator2](https://i.imgur.com/4gX5WFr.png)
 
 # Pull and push 
 
 ### `git push -u origin [BranshName]`
 - Pull then push
+
+![separator2](https://i.imgur.com/4gX5WFr.png)
 
 
 # Configurations
@@ -64,4 +71,7 @@
 ### `git config --global --edit`
 - Set your configurations using vs code 
  
+![separator2](https://i.imgur.com/4gX5WFr.png)
+
+# Pull Requset
 

@@ -1,5 +1,5 @@
 # ⦿ Areas
-![areas](https://user-images.githubusercontent.com/99830416/220210277-b4fc9d57-462a-463c-88d9-893c89c7b0f8.jpg)
+![Picture1](https://user-images.githubusercontent.com/99830416/220769928-aada5303-11cb-4de1-93ca-4a4613e59b50.jpg)
 ![separator2](https://i.imgur.com/4gX5WFr.png)
 
 

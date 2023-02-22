@@ -3,7 +3,7 @@
 
 ![separator2](https://i.imgur.com/4gX5WFr.png)
 
-# From Local To Remote 
+# Local ⭢ Remote 
 
 ### `git status`
 -  Return information of your **Local Repo**
@@ -31,7 +31,7 @@
 
 ![separator2](https://i.imgur.com/4gX5WFr.png)
 
-# From Remote To Local
+# Remote ⭢ Local
 
 ### `git pull origin`
 - Get all edited files in remote repo to local

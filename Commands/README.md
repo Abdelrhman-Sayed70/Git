@@ -186,6 +186,6 @@ Used to stash [Hide] some commits that you do not want to commit now. Same mexan
 
 ## [WARNING] Burn your stash🔥💣
 ### `git stash clear`
--**ALL DATA IN THE STASH WILL BE REMOVED**
+- **ALL DATA IN THE STASH WILL BE REMOVED**
 
 ![separator2](https://i.imgur.com/4gX5WFr.png)

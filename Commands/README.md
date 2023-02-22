@@ -159,6 +159,7 @@
 
 
 
+
 # ⦿ Stash
 ## Usage 
 > Used to stash [Hide] some commits that you do not want to commit now. Same mexanism of stack [Last In First Out LIFO]
@@ -214,9 +215,33 @@
 
 
 
-# ⦿ Managing Files
+# ⦿ Managing Files & Staging Area
+## Open file on vs code
+> ### `code filename`
+
 ## Unstage Files 
-### `git restore --staged file_name`
-![image](https://user-images.githubusercontent.com/99830416/220703090-c9639ba7-b2ec-499f-81bf-8d302e1dcff4.png)
+> ### `git restore --staged file_name`
+> ![image](https://user-images.githubusercontent.com/99830416/220703090-c9639ba7-b2ec-499f-81bf-8d302e1dcff4.png)
+
+## Clean
+> ### `git clean -n`
+> - List all files that can be deleted [files that not in staging area]
+> 
+> ### `git clean -f`
+> - Remove all listed files in the previous step 
+> 
+> ![image](https://user-images.githubusercontent.com/99830416/220756391-6058ed5d-5663-4b37-837e-952340a9957d.png)
+
+![separator2](https://i.imgur.com/4gX5WFr.png)
+
+
+
+
+
+
+
+# ⦿ Managing Committs
+
+
 
 ![separator2](https://i.imgur.com/4gX5WFr.png)

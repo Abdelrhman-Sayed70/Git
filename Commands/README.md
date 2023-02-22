@@ -112,7 +112,9 @@
 - Rename the current branch
 
 
-## Delete branch
+## Delete Branch
+`Note to travel to another branch to be able to delete the branch`
+
 ### `git branch -d branch_name`
 - Safe mood
 - Git checks if the branch has changes that not merged yet to the master branch if (true) it will be not deleted else delete
@@ -120,6 +122,19 @@
 ### `git branch -D branch_name`
 - Force mood
 - Delete the branch without checking
+
+
+## Merge Branch
+
+- Merge branchs in git CLI
+  
+  ### `git checkout main` `git merge branch_name`
+  here we merge main branch with another branch
+
+
+- Send your branch to Githup  
+  ### `git push origin branch_name`
+
 
 
 ![separator2](https://i.imgur.com/4gX5WFr.png)

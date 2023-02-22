@@ -152,9 +152,10 @@ Used to stash [Hide] some commits that you do not want to commit now
 
 
 ### `git stash pop`
-- Return last elements added to stash [stash.top] 
+- Return last elements added to stash [stash.top() then stash.pop()] 
+
+
+
 
 
 ![separator2](https://i.imgur.com/4gX5WFr.png)
-
-

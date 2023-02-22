@@ -102,6 +102,16 @@
 
 # ⦿ Pull Request
 
+> - Check if the repo owner put rules to contribute 
+> - Fork Repo you want to contribute on it
+> - Make your changes on your forked local repo 
+> - Go to your forked repo on githup and create pull request
+> 
+>   ![image](https://user-images.githubusercontent.com/99830416/220724964-749653c5-49bd-4ab2-9273-f103677b6eef.png)
+>   
+>   ![image](https://user-images.githubusercontent.com/99830416/220725231-b05976c4-9076-4762-b31f-3ceb79989b66.png)
+
+
 ![separator2](https://i.imgur.com/4gX5WFr.png)
 
 

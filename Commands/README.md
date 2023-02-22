@@ -9,7 +9,7 @@
 -  Return information of your **Local Repo**
 
 ### `git add [file name or folder name or *] `
-- Add the selected files to be in **Staging ares**
+- Add the selected files to be in **Staging area**
 - \* add all untracked files into Staging area
 
 ### `git reset head [file path or folder name]`

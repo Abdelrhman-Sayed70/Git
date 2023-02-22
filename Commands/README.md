@@ -60,6 +60,9 @@
 
 ### `git config --global --edit`
 - Open configurations on vs code
+- You can set your configurations using vs code
+  
+  ![image](https://user-images.githubusercontent.com/99830416/220574337-200a275e-b10a-4830-866c-ed1c6c244b06.png)
 
 
 ## UserName & UserEmail

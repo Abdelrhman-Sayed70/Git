@@ -59,7 +59,7 @@
 - Set vs code as your default editor
 
 ### `git config --global --edit`
-- Set your configurations using vs code 
+- Open configurations on vs code
 
 
 ## UserName & UserEmail

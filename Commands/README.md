@@ -141,7 +141,18 @@
 
 
 # Stash
+## Usage 
+Used to stash [Hide] some commits that you do not to push now
 
+### `git stash`
+- Hide your added files in stash
+
+### `git stash list`
+![image](https://user-images.githubusercontent.com/99830416/220581739-6a1c6a0b-f918-435f-a6af-71a9ce4dd981.png)
+
+
+### `git stash pop`
+- Return last elements added to stash [stash.top] 
 
 
 ![separator2](https://i.imgur.com/4gX5WFr.png)

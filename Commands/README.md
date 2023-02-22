@@ -264,3 +264,22 @@
 > ![image](https://user-images.githubusercontent.com/99830416/220766419-cb876d4b-b86d-4a8f-b5ef-5c9800d20440.png)
 
 ![separator2](https://i.imgur.com/4gX5WFr.png)
+
+
+
+
+
+
+# ⦿ Tagging
+## `git tag`
+- List all tages 
+## `git tag tag_name` 
+- tag_name : v1.0 v1.1 v2.0 and so on
+- we create tag after we have commits 
+- all commits will be under this tag
+
+## `git push origin tag_name` 
+- push this tag on githp 
+
+ 
+![separator2](https://i.imgur.com/4gX5WFr.png) 

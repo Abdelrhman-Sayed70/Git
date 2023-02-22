@@ -142,17 +142,22 @@
 
 # Stash
 ## Usage 
-Used to stash [Hide] some commits that you do not want to commit now
+Used to stash [Hide] some commits that you do not want to commit now. Same mexanism of stack [Last In First Out LIFO]
 
 ### `git stash`
-- Hide your added files in stash
+- Hide files that added to staging area 
+
+### `git stash save "message"` 
+- add message to your stash 
 
 ### `git stash list`
-![image](https://user-images.githubusercontent.com/99830416/220581739-6a1c6a0b-f918-435f-a6af-71a9ce4dd981.png)
+- List stash array 
+
+![image](https://user-images.githubusercontent.com/99830416/220619724-c0be96af-b6f5-40da-aa59-87a0425145bc.png)
 
 
 ### `git stash pop`
-- Return last elements added to stash [stash.top() then stash.pop()] 
+- Return last elements added to stash ( stash[0] ) and pop it [stash.top() then stash.pop()] 
 
 
 

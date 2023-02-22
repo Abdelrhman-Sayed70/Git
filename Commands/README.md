@@ -124,17 +124,14 @@
 - Delete the branch without checking
 
 
-## Merge Branch
+## Merge Branch in git 
 
-- Merge branchs in git CLI
-  
-  ### `git checkout main` `git merge branch_name`
-  here we merge main branch with another branch
+### `git checkout main` `git merge branch_name`
+- Merge main branch with another branch
 
-
-- Send your branch to Githup  
-  ### `git push origin branch_name`
-
+## Send branch to githup 
+### `git push origin branch_name`
+- Sent to gihhup and we can merge there
 
 
 ![separator2](https://i.imgur.com/4gX5WFr.png)

@@ -241,7 +241,28 @@
 
 
 # ⦿ Managing Committs
+- Each commit has ID you can get it from githup or git 
+- HEAD point to the last commit
 
+## Get info about commitss
+### `git log` 
+- List recent commits with their ids and **HEAD** pointer that point to the last commit
 
+  ![image](https://user-images.githubusercontent.com/99830416/220764532-6512e115-f4b2-4b02-94e7-69306bcce8dc.png)
+
+## Delete Committs [Be Careful]
+- In case you want to delete the last commit [bad commit], make Head point to the next commit [good commit]
+- In case you want to delete top 2 commits make head point to the third commit from top 
+
+### `git reset --hard Good_commit_it`
+- Now Head is at Good commit
+### `git push origin main --force`
+- Update the remote repo with this update
+- Bad Commit will be **REMOVED**
+
+![image](https://user-images.githubusercontent.com/99830416/220765625-fe7f49f7-852f-4ca2-841b-8a8a54674122.png)
+![image](https://user-images.githubusercontent.com/99830416/220766419-cb876d4b-b86d-4a8f-b5ef-5c9800d20440.png)
+
+  
 
 ![separator2](https://i.imgur.com/4gX5WFr.png)

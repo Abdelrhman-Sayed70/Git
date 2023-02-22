@@ -144,6 +144,7 @@
 ## Usage 
 Used to stash [Hide] some commits that you do not want to commit now. Same mexanism of stack [Last In First Out LIFO]
 
+## Add and get from stash 
 ### `git stash`
 - Hide files that added to staging area 
 
@@ -155,12 +156,36 @@ Used to stash [Hide] some commits that you do not want to commit now. Same mexan
 
 ![image](https://user-images.githubusercontent.com/99830416/220619724-c0be96af-b6f5-40da-aa59-87a0425145bc.png)
 
-
 ### `git stash pop`
-- Return last elements added to stash ( stash[0] ) and pop it [stash.top() then stash.pop()] 
+- Return last elements added to stash and put it in the **staging area**( stash[0] ) and pop it [stash.top() then stash.pop()] 
+
+### `git stach apply`
+- Return the top of the stach **Without** removing it form stash and add it to the staging area 
+
+## Indexing in stash 
+
+### `get stash pop stash@{index}`
+- Get the stash element at index and remove it 
+
+## Delete from stash 
+### `git stash drop`
+- Drop the top of the stash 
+
+### `git stash drop stash@{index}`
+- Drop stash element at this index [NOTE : all data in this index in stash will be deleted]
+ 
+## Display stash 
+### `git stash show` 
+- Return the info of the top element at stash 
+
+### `git stash show stash@{index}`
+- Return the info of the top element at this index in the stash 
+
+## Take Stash element to a branch 
 
 
-
-
+## [WARNING] Burn your stash🔥💣
+### `git stash clear`
+-**ALL DATA IN THE STASH WILL BE REMOVED**
 
 ![separator2](https://i.imgur.com/4gX5WFr.png)

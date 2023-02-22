@@ -1,10 +1,10 @@
 # ⦿ Areas
 ![areas](https://user-images.githubusercontent.com/99830416/220210277-b4fc9d57-462a-463c-88d9-893c89c7b0f8.jpg)
-
 ![separator2](https://i.imgur.com/4gX5WFr.png)
 
-# ⦿ Local ⭢ Remote 
 
+
+# ⦿ Local ⭢ Remote 
 > ### `git status`
 > -  Return information of your **Local Repo**
 > 
@@ -28,31 +28,38 @@
 > - `git push origin main  //main is default local branch`  
 > 
 > - `git push origin Gaber //Gaber is a local branch`  
-
+>
 ![separator2](https://i.imgur.com/4gX5WFr.png)
 
-# ⦿ Remote ⭢ Local
 
+
+
+# ⦿ Remote ⭢ Local
 > ### `git pull origin`
 > - Get all edited files in remote repo to local
 > - Do 2 commands : git fetch [retrieve  data from remote] , git merge [merge those data to your local branch]
-
+> 
 ![separator2](https://i.imgur.com/4gX5WFr.png)
 
-# ⦿ Pull and push 
 
+
+
+
+# ⦿ Pull and push 
 > ### `git push -u origin [BranshName]`
-> - Pull then push
+> - Pull then push 
 > 
-  ![separator2](https://i.imgur.com/4gX5WFr.png)
+![separator2](https://i.imgur.com/4gX5WFr.png)
+
+
+
+
 
 
 # ⦿ Configurations
-
 ## ListConfigurations
 > ### `git config -l`
 > - return your configurations
-
 
 ## Editor
 > ### `git config --global core.editor code`
@@ -63,7 +70,6 @@
 > - You can set your configurations using vs code
 >   
 >   ![image](https://user-images.githubusercontent.com/99830416/220574337-200a275e-b10a-4830-866c-ed1c6c244b06.png)
-
 
 ## UserName & UserEmail
 > ### `git config --global user.email`
@@ -83,20 +89,26 @@
 > ### `git config --global alias.pl`
 > - Get the value of alias
 
-
 ## UnsetConfig
 > ### `git config --global --unset configname`
 > - unset specific configuration : user.name, user.email and so on
 
-
- 
 ![separator2](https://i.imgur.com/4gX5WFr.png)
+
+
+
+
+
+
 # ⦿ Pull Request
 
 ![separator2](https://i.imgur.com/4gX5WFr.png)
 
-# ⦿ Branching
 
+
+
+
+# ⦿ Branching
 ## Create branches and move between them
 > ### `git branch`
 > - return all branches in repo 
@@ -114,7 +126,6 @@
 > ### `git branch -m new_branch_name`
 > - Rename the current branch
 
-
 ## Delete Branch
 > `Note to travel to another branch to be able to delete the branch`
 > 
@@ -126,7 +137,6 @@
 > - Force mood
 > - Delete the branch without checking
 
-
 ## Merge Branch in git 
 
 > ### `git checkout main` `git merge branch_name`
@@ -135,9 +145,10 @@
 > ## Send branch to githup 
 > ### `git push origin branch_name`
 > - Sent to gihhup and we can merge there
-
-
+> 
 ![separator2](https://i.imgur.com/4gX5WFr.png)
+
+
 
 
 # ⦿ Stash
@@ -182,7 +193,6 @@
 > - Return the info of the top element at this index in the stash 
 
 ## Take Stash element to a branch 
-
 
 ## [WARNING] Burn your stash🔥💣
 > ### `git stash clear`

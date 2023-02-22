@@ -142,7 +142,7 @@
 
 # Stash
 ## Usage 
-Used to stash [Hide] some commits that you do not to push now
+Used to stash [Hide] some commits that you do not want to commit now
 
 ### `git stash`
 - Hide your added files in stash

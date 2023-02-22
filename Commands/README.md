@@ -1,9 +1,9 @@
-# Areas
+# ⦿ Areas
 ![areas](https://user-images.githubusercontent.com/99830416/220210277-b4fc9d57-462a-463c-88d9-893c89c7b0f8.jpg)
 
 ![separator2](https://i.imgur.com/4gX5WFr.png)
 
-# Local ⭢ Remote 
+# ⦿ Local ⭢ Remote 
 
 > ### `git status`
 > -  Return information of your **Local Repo**
@@ -31,7 +31,7 @@
 
 ![separator2](https://i.imgur.com/4gX5WFr.png)
 
-# Remote ⭢ Local
+# ⦿ Remote ⭢ Local
 
 > ### `git pull origin`
 > - Get all edited files in remote repo to local
@@ -39,7 +39,7 @@
 
 ![separator2](https://i.imgur.com/4gX5WFr.png)
 
-# Pull and push 
+# ⦿ Pull and push 
 
 > ### `git push -u origin [BranshName]`
 > - Pull then push
@@ -47,7 +47,7 @@
   ![separator2](https://i.imgur.com/4gX5WFr.png)
 
 
-# Configurations
+# ⦿ Configurations
 
 ## ListConfigurations
 > ### `git config -l`
@@ -91,11 +91,11 @@
 
  
 ![separator2](https://i.imgur.com/4gX5WFr.png)
-# Pull Request
+# ⦿ Pull Request
 
 ![separator2](https://i.imgur.com/4gX5WFr.png)
 
-# Branching
+# ⦿ Branching
 
 ## Create branches and move between them
 > ### `git branch`
@@ -140,7 +140,7 @@
 ![separator2](https://i.imgur.com/4gX5WFr.png)
 
 
-# Stash
+# ⦿ Stash
 ## Usage 
 > Used to stash [Hide] some commits that you do not want to commit now. Same mexanism of stack [Last In First Out LIFO]
 

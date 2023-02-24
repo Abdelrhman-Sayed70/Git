@@ -279,7 +279,7 @@
 - all commits will be under this tag
 
 ## `git push origin tag_name` 
-- push this tag on githp 
+- push this tag on githup 
 
  
 ![separator2](https://i.imgur.com/4gX5WFr.png) 

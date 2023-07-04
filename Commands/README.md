@@ -1,3 +1,8 @@
+# ⦿ Installation
+ 
+
+ 
+
 # ⦿ Areas
 ![Picture1](https://user-images.githubusercontent.com/99830416/220769928-aada5303-11cb-4de1-93ca-4a4613e59b50.jpg)
 ![separator2](https://i.imgur.com/4gX5WFr.png)
